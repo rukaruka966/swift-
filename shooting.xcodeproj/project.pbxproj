@@ -15,6 +15,7 @@
 		28D3CD8222A3E85B002CE5E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28D3CD8022A3E85B002CE5E6 /* Main.storyboard */; };
 		28D3CD8422A3E85D002CE5E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28D3CD8322A3E85D002CE5E6 /* Assets.xcassets */; };
 		28D3CD8722A3E85D002CE5E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28D3CD8522A3E85D002CE5E6 /* LaunchScreen.storyboard */; };
+		28EE7A2722ABF7FA0075481B /* explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 28EE7A2622ABF7FA0075481B /* explosion.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		28D3CD8322A3E85D002CE5E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28D3CD8622A3E85D002CE5E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28D3CD8822A3E85D002CE5E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28EE7A2622ABF7FA0075481B /* explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = explosion.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				28D3CD7822A3E85B002CE5E6 /* GameScene.sks */,
 				28D3CD7A22A3E85B002CE5E6 /* Actions.sks */,
 				28D3CD7C22A3E85B002CE5E6 /* GameScene.swift */,
+				28EE7A2622ABF7FA0075481B /* explosion.sks */,
 				28D3CD7E22A3E85B002CE5E6 /* GameViewController.swift */,
 				28D3CD8022A3E85B002CE5E6 /* Main.storyboard */,
 				28D3CD8322A3E85D002CE5E6 /* Assets.xcassets */,
@@ -134,6 +137,7 @@
 				28D3CD8222A3E85B002CE5E6 /* Main.storyboard in Resources */,
 				28D3CD7922A3E85B002CE5E6 /* GameScene.sks in Resources */,
 				28D3CD8422A3E85D002CE5E6 /* Assets.xcassets in Resources */,
+				28EE7A2722ABF7FA0075481B /* explosion.sks in Resources */,
 				28D3CD8722A3E85D002CE5E6 /* LaunchScreen.storyboard in Resources */,
 				28D3CD7B22A3E85B002CE5E6 /* Actions.sks in Resources */,
 			);
